@@ -1,0 +1,31 @@
+_repo: The-Flaming-Sword-in-Serbia-and-Elsewhere_43124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43124-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stobart, M. A. (Mabel Annie)
+    aliases:
+    - Stobart, Mrs. St. Clair
+    - Stobart, Mabel Annie Boulton
+    birthdate: 1862
+    deathdate: 1954
+    gutenberg_agent_id: '42032'
+    url: http://www.gutenberg.org/2009/agents/42032
+description: ''
+gutenberg_issued: '2013-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43124'
+  lccn: '17019162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Hospitals'
+- !lcc 'D501'
+title: The Flaming Sword in Serbia and Elsewhere
+url: http://www.gutenberg.org/ebooks/43124
